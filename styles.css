@@ -1,0 +1,10 @@
+* {
+    background-color: antiquewhite;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
